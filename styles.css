@@ -1,0 +1,73 @@
+li{
+
+    display:inline;
+    
+}
+nav
+{
+    background-color: aqua;
+    height: 35px;
+}
+
+nav li{
+    margin-right: 3px;
+}
+nav li a {
+text-decoration: none;
+    background-color: rosybrown;
+    border-radius: 10px;
+    color: red;         
+    font-size: 30px;
+}
+nav li a:active,a:hover{
+    background-color: black;
+    color: chocolate
+    
+}
+h1{
+    text-align: center;
+    border-color: aqua;
+    color: crimson;
+    background-color: chartreuse;
+}
+figure{
+    text-align: center; 
+    height: 40%;
+    background-color: darkorange;
+    border-radius: 20px;
+    background-size:cover;
+    background-image:url("D:/Photos/Images/best_wallpapers120orignal.jpg        ");
+    width:100%; 
+    background-position:center;
+}    
+
+
+#one{
+    border:10px solid blue;
+    position: fixed;
+    top: 5;
+    left: 0;
+    font-size:30px;
+    background-color: chartreuse;
+        border-radius:20px;
+}
+video{
+    border: 
+        4px solid red;
+    margin:20px;
+}
+p{
+    background-color: aqua;
+     font-size: 20px;
+    border: 30px deeppink;
+    border-radius:20px; 
+    
+}
+input{
+    left:30;
+    background-color:antiquewhite;
+}
+#two{
+    background-color:cornsilk;
+}
+
